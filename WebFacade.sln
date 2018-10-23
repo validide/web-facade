@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebFacade.Core", "src\WebFacade.Core\WebFacade.Core.csproj", "{54B10A5E-67DA-4EFD-95BD-1500D858184D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFacade.Abstractions", "src\WebFacade.Abstractions\WebFacade.Abstractions.csproj", "{A2091688-85E6-401B-BE87-88CCD7F9877B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebFacade.UnitTests", "test\WebFacade.UnitTests\WebFacade.UnitTests.csproj", "{435B0134-AE66-4AE3-B83C-3FBE3ACD9C68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{54B10A5E-67DA-4EFD-95BD-1500D858184D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54B10A5E-67DA-4EFD-95BD-1500D858184D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54B10A5E-67DA-4EFD-95BD-1500D858184D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A2091688-85E6-401B-BE87-88CCD7F9877B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A2091688-85E6-401B-BE87-88CCD7F9877B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A2091688-85E6-401B-BE87-88CCD7F9877B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A2091688-85E6-401B-BE87-88CCD7F9877B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{435B0134-AE66-4AE3-B83C-3FBE3ACD9C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435B0134-AE66-4AE3-B83C-3FBE3ACD9C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435B0134-AE66-4AE3-B83C-3FBE3ACD9C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435B0134-AE66-4AE3-B83C-3FBE3ACD9C68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
